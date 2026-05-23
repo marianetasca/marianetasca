@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Sou formada em Análise e Desenvolvimento de Sistemas<br>🌱 Atualmente estou estudando JavaScript</p>
+<p align="left">✨ Sou formada em Análise e Desenvolvimento de Sistemas<br>📚 Atualmente estou estudando JavaScript e React.</p>
 
 ###
 
@@ -21,13 +21,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marianetasca&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/marianetasca/marianetasca/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -53,6 +55,6 @@
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/marianetasca/marianetasca/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/marianetasca/marianetasca/snake-output/snake.svg" alt="Snake animation" />
 
 ###
